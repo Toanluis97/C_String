@@ -15,28 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B1.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B3.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B4.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B5.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B6.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B7.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\main.c">
+    <ClCompile Include="B1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

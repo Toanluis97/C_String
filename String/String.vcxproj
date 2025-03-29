@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="B1.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,16 +129,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\main.c" />
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B1.c" />
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B2.c" />
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B3.c" />
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B4.c" />
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B5.c" />
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B6.c" />
-    <ClCompile Include="..\..\..\nguyen_duc_toan\nguyen_duc_toan\String_B7.c" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
