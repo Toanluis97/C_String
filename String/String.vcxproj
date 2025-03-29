@@ -20,6 +20,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="B1.c" />
+    <ClCompile Include="B2.c" />
+    <ClCompile Include="B3.c" />
+    <ClCompile Include="B4.c" />
+    <ClCompile Include="B5.c" />
+    <ClCompile Include="B6.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
